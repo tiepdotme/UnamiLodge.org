@@ -1,0 +1,1309 @@
+- variety: F
+  issue: 1
+  border:
+    color: BLK
+    type: C
+  background: WHT
+  name: DGR
+  fdl: N/A
+  issued:
+  comments: VER center of turtle; HOR RED; FF
+  extension: jpg
+- variety: F
+  issue: 2
+  border:
+    color: BLK
+    type: C
+  background: WHT
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: VER turtle; HOR RED; TLR
+  extension: jpg
+- variety: F
+  issue: 3
+  border:
+    color: BLK
+    type: C
+  background: WHT
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: VER turtle & RED
+  extension: jpg
+- variety: F
+  issue: 4
+  border:
+    color: BLK
+    type: C
+  background: WHT
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: None
+  extension: jpg
+- variety: S
+  issue: 1
+  border:
+    color: BLK
+    type: R
+  background: GRY
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: None
+  extension: jpg
+- variety: S
+  issue: 2a
+  border:
+    color: DYL
+    type: R
+  background: LGY
+  name: DGR
+  fdl: N/A
+  issued: 1965
+  comments: LBR arrowhead; turtle bottom left flipper over arrowhead
+  extension: jpg
+- variety: S
+  issue: 2b
+  border:
+    color: DYL
+    type: R
+  background: LGY
+  name: DGR
+  fdl: N/A
+  issued:
+  comments: BRN arrowhead
+  extension: jpg
+- variety: S
+  issue: 3a
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: DGR
+  fdl: N/A
+  issued:
+  comments: all HOR BRN arrowhead; 50x110mm
+  extension: jpg
+- variety: S
+  issue: 3b
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: DGR
+  fdl: N/A
+  issued:
+  comments: 52x113mm
+  extension: jpg
+- variety: S
+  issue: 3c
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: 52x113mm
+  extension: jpg
+- variety: S
+  issue: 4
+  border:
+    color: LRD
+    type: R
+  background: WHT
+  name: DGR
+  fdl: N/A
+  issued:
+  comments: 54x108mm; rounded bottom; all HOR BRN arrowhead
+  extension: jpg
+- variety: S
+  issue: 5
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: GRN
+  fdl: N/A
+  issued:
+  comments: VER BRN arrowhead base 52x117mm; LB
+  extension: jpg
+- variety: F
+  issue: 5
+  border:
+    color: GRN
+    type: R
+  background: RED
+  name: BLK
+  fdl: N/A
+  issued: 1975
+  comments: 60th OA Anniversary
+  extension: jpg
+- variety: S
+  issue: 6
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: FDL; BRN shoreline; LB
+  extension: jpg
+- variety: S
+  issue: 7
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: GRN turtle; TAN shoreline; 4MM FDL
+  extension: jpg
+- variety: S
+  issue: 8
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: BGR turtle; TAN shoreline 6MM FDL
+  extension: jpg
+- variety: S
+  issue: 9
+  border:
+    color: BLK
+    type: R
+  background: LGY
+  name: DGR
+  fdl: DYL
+  issued:
+  comments: FDL; 65th OA Anniversary
+  extension: jpg
+- variety: S
+  issue: 10
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: YEL
+  fdl: YEL
+  issued:
+  comments: FDL; LB
+  extension: jpg
+- variety: S
+  issue: 11
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: WHT shoreline; DBL & TRQ water
+  extension: jpg
+- variety: S
+  issue: 12
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: FDL; LGY shoreline; LB; 7MM name
+  extension: jpg
+- variety: S
+  issue: 13a
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: BLK
+  fdl: DYL
+  issued: 1990
+  comments: FDL; 75th OA; Silver GRN turtle
+  extension: jpg
+- variety: S
+  issue: 13b
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: BLK
+  fdl: DYL
+  issued: 1990
+  comments: FDL; 75th OA; very DGR turtle
+  extension: jpg
+- variety: S
+  issue: 14
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: GMY
+  fdl: GRN
+  issued:
+  comments: FDL; BLK paper back
+  extension: jpg
+- variety: S
+  issue: 15
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: SMY
+  fdl: GRN
+  issued:
+  comments: None
+  extension: jpg
+- variety: S
+  issue: 16
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: BLK
+  fdl: RED
+  issued: 1990
+  comments: FDL; BLK 1915-1990; 75th OA
+  extension: jpg
+- variety: S
+  issue: 17
+  border:
+    color: WHT
+    type: R
+  background: M/C
+  name: DYL
+  fdl: DYL
+  issued:
+  comments: FDL; WHT shoreline
+  extension: jpg
+- variety: S
+  issue: 18
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: RED
+  fdl: WHT
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 19
+  border:
+    color: M/C
+    type: C
+  background: M/C
+  name: WHT
+  fdl: DYL
+  issued: 1995
+  comments: FDL; RED 80th OA
+  extension: jpg
+- variety: S
+  issue: 20
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: YEL
+  fdl: YEL
+  issued:
+  comments: None
+  extension: jpg
+- variety: S
+  issue: 21
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: BLK
+  fdl: SMY
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 22
+  border:
+    color: DYL
+    type: R
+  background: M/C
+  name: BLK
+  fdl: RED
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 23
+  border:
+    color: GRN
+    type: R
+  background: WHT
+  name: GRN
+  fdl: GRN
+  issued: 1997
+  comments: FDL; JAM95 (1997 Jamboree)
+  extension: jpg
+- variety: S
+  issue: 24
+  border:
+    color: GRY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: RED
+  issued:
+  comments: FDL; Training Flap; 115MM long
+  extension: jpg
+- variety: S
+  issue: 25
+  border:
+    color: MAR
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued:
+  comments: FDL; 115mm long; "Shortie" flap
+  extension: jpg
+- variety: S
+  issue: 26
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued:
+  comments: FDL; 126mm long
+  extension: jpg
+- variety: S
+  issue: 27
+  border:
+    color: GRN
+    type: R
+  background: M/C
+  name: WHT
+  fdl: BLK
+  issued: 1998
+  comments: NOAC 1998
+  extension: jpg
+- variety: X
+  issue: 22
+  border:
+    color: GRN
+    type: R
+  background: M/C
+  name: WHT
+  fdl: YEL
+  issued: 1998
+  comments: NOAC 1998; pocket part for S27
+  extension: jpg
+- variety: S
+  issue: 28
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: RED
+  issued:
+  comments: FDL; rounded bottom; training flap
+  extension: jpg
+- variety: S
+  issue: 29
+  border:
+    color: GRN
+    type: R
+  background: M/C
+  name: GRN
+  fdl: GRN
+  issued:
+  comments: NOAC Y2K Fund Raiser
+  extension: jpg
+- variety: S
+  issue: 30
+  border:
+    color: MAR
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued:
+  comments: FDL; 126mm long; PB
+  extension: jpg
+- variety: S
+  issue: 31
+  border:
+    color: RED
+    type: R
+  background: RED
+  name: M/C
+  fdl: RED
+  issued: 2000
+  comments: NOAC 2000
+  extension: jpg
+- variety: X
+  issue: 29
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: M/C
+  fdl: N/A
+  issued: 2000
+  comments: NOAC 2000 bottom piece 85th Anniv.
+  extension: jpg
+- variety: S
+  issue: 32
+  border:
+    color: SMY
+    type: R
+  background: RED
+  name: SMY
+  fdl: SMY
+  issued: 2001
+  comments: FDL; 2001 National Jamboree
+  extension: jpg
+- variety: S
+  issue: 33
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: RED
+  issued:
+  comments: FDL; pointed bottom; Trained Officer
+  extension: jpg
+- variety: S
+  issue: 34
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: DYL
+  fdl: WHT
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 35
+  border:
+    color: WHT
+    type: R
+  background: M/C
+  name: DYL
+  fdl: WHT
+  issued: 2002
+  comments: FDL; NOAC 2002
+  extension: jpg
+- variety: S
+  issue: 36
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: BLK
+  fdl: DYL
+  issued: 2004
+  comments: NOAC 2004 Fund Raiser; TI 90th Anniversary Flap
+  extension: jpg
+- variety: S
+  issue: 37
+  border:
+    color: BLK
+    type: C
+  background: M/C
+  name: M/C
+  fdl: GRN
+  issued: 2004
+  comments: FDL; NOAC 2004 Trader
+  extension: jpg
+- variety: X
+  issue: 31
+  border:
+    color: BLK
+    type: C
+  background: M/C
+  name: M/C
+  fdl: N/A
+  issued: 2004
+  comments: 2004 NOAC Trader Pocket Part
+  extension: jpg
+- variety: X
+  issue: 32
+  border:
+    color: GRN
+    type: C
+  background: GRN
+  name: RED
+  fdl: N/A
+  issued: 2004
+  comments: 3rd piece of 2004 NOAC Trader & Delegate
+  extension: jpg
+- variety: S
+  issue: 38
+  border:
+    color: GMY
+    type: C
+  background: M/C
+  name: M/C
+  fdl: GRN
+  issued: 2004
+  comments: FDL; NOAC 2004 Delegate
+  extension: jpg
+- variety: X
+  issue: 33
+  border:
+    color: GMY
+    type: C
+  background: M/C
+  name: M/C
+  fdl: N/A
+  issued: 2004
+  comments: 2004 NOAC Delegate Pocket Part
+  extension: jpg
+- variety: X
+  issue: 34
+  border:
+    color: GRN
+    type: C
+  background: GRN
+  name: RED
+  fdl: N/A
+  issued: 2004
+  comments: 3rd piece of 2004 NOAC Trader & Delegate
+  extension: jpg
+- variety: S
+  issue: 39
+  border:
+    color: M
+    type: 
+  background: M
+  name: W
+  fdl: B
+  issued:  
+  comments: FDL; OA 90th Anniversary
+  extension: jpg
+- variety: S
+  issue: 40
+  border:
+    color: GRN
+    type: R
+  background: M/C
+  name: RED
+  fdl: YEL
+  issued: 2006
+  comments: NOAC 2006 Fund Raiser
+  extension: jpg
+- variety: S
+  issue: 41
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: WHT
+  fdl: DBL
+  issued:
+  comments: TI Restoration Fund
+  extension: jpg
+- variety: S
+  issue: 42
+  border:
+    color: WHT
+    type: R
+  background: M/C
+  name: WHT
+  fdl: DBL
+  issued:
+  comments: TI Restoration Fund
+  extension: jpg
+- variety: S
+  issue: 43
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: WHT
+  issued: 2006
+  comments: NOAC 2006 Trader
+  extension: jpg
+- variety: X
+  issue: 48
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: YEL
+  issued: 2006
+  comments: NOAC 2006 trader and delegate pocket patch
+  extension: jpg
+- variety: S
+  issue: 44
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: WHT
+  issued: 2006
+  comments: NOAC 2006 Delegate; bobble head
+  extension: jpg
+- variety: X
+  issue: 48
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: YEL
+  issued: 2006
+  comments: NOAC 2006 trader and delegate pocket patch
+  extension: jpg
+- variety: S
+  issue: 45
+  border:
+    color: RMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: WHT
+  issued: 2006
+  comments: NOAC 2006 contingent; bobble head
+  extension: jpg
+- variety: X
+  issue: 49
+  border:
+    color: RMY
+    type: R
+  background: BLK
+  name: WHT
+  fdl: YEL
+  issued: 2006
+  comments: NOAC 2006 contingent pocket patch
+  extension: jpg
+- variety: S
+  issue: 46
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: RED
+  fdl: M/C
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 47
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: RED
+  fdl: GMY
+  issued:
+  comments: FDL; training flap; velvet background
+  extension: jpg
+- variety: S
+  issue: 48
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: RED
+  fdl: GRN
+  issued:
+  comments: FDL; velvet background
+  extension: jpg
+- variety: S
+  issue: 49
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: BLK
+  fdl: BLK
+  issued:
+  comments: FDL
+  extension: jpg
+- variety: S
+  issue: 50
+  border:
+    color: BLU
+    type: C
+  background: M/C
+  name: BLK
+  fdl: WHT
+  issued:
+  comments: FDL; 2009 NOAC Fundraiser
+  extension: jpg
+- variety: S
+  issue: 51
+  border:
+    color: BLK
+    type: R
+  background: BLK
+  name: WHT
+  fdl: WHT
+  issued:
+  comments: FDL; NE-5B Conclave Flap
+  extension: jpg
+- variety: S
+  issue: 52
+  border:
+    color: RED
+    type: R
+  background: BLK
+  name: WHT
+  fdl: WHT
+  issued:
+  comments: FDL; NE-5B Conclave Staff Flap
+  extension: jpg
+- variety: S
+  issue: 53
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2009
+  comments: FDL; NOAC 2009 Trader
+  extension: jpg
+- variety: X
+  issue: 52
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2009
+  comments: 2009 NOAC trader pocket part
+  extension: jpg
+- variety: S
+  issue: 54
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2009
+  comments: FDL; NOAC 2009 Delegate
+  extension: jpg
+- variety: X
+  issue: 53
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2009
+  comments: 2009 NOAC Delegate Pocket Patch
+  extension: jpg
+- variety: S
+  issue: 55
+  border:
+    color: ORG
+    type: R
+  background: M/C
+  name: DRD
+  fdl: PYL
+  issued: 2010
+  comments: 2010 National Jamboree Flap
+  extension: jpg
+- variety: S
+  issue: 56
+  border:
+    color: GMY
+    type: C
+  background: M/C
+  name: GMY
+  fdl: GMY
+  issued: 2010
+  comments: Standard BSA Centennial Flap. White Sash. Flaps S56, S57 & S58 are identical except for OA Sash color
+  extension: jpg
+- variety: S
+  issue: 57
+  border:
+    color: GMY
+    type: C
+  background: M/C
+  name: GMY
+  fdl: GMY
+  issued: 2010
+  comments: Unami Lodge 95th Anniversary & BSA Centennial Flap. This flap was only available as part of a set with the Cradle of Liberty "Unami Lodge 95th" Council Strip. Red Sash. Flaps S56, S57 & S58 are identical except for OA Sash color
+  extension: jpg
+- variety: S
+  issue: 58
+  border:
+    color: GMY
+    type: C
+  background: M/C
+  name: GMY
+  fdl: GMY
+  issued: 2010
+  comments: Unami Lodge Benefactor Flap & BSA Centennial Flap. This flap was only available as part of a set with the Cradle of Liberty "Unami Lodge Benefactor" Council Strip. Black Sash. Flaps S56, S57 & S58 are identical except for OA Sash color
+  extension: jpg
+- variety: S
+  issue: 59
+  border:
+    color: FGR
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GMY
+  issued:
+  comments: Thomas J. Richards Arena project standard Fundraiser Flap
+  extension: jpg
+- variety: S
+  issue: 60
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GMY
+  issued:
+  comments: Thomas J. Richards Arena Project Limited Edition Fundraiser Flap. Flap is only availabe as a 2 piece set and came with matching Cradle of Liberty CSP. Unami Lodge only created 50 sets
+  extension: jpg
+- variety: S
+  issue: 61
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GMY
+  issued:
+  comments: Thomas J. Richards Arena Project Limited Edition Fundraiser Flap. Flap is only availabe as a 2 piece set and came with matching Cradle of Liberty CSP. Unami Lodge only created 200 sets
+  extension: jpg
+- variety: S
+  issue: 62
+  border:
+    color: TRQ
+    type: R
+  background: M/C
+  name: RED
+  fdl: WHT
+  issued: 1/2012
+  comments: NOAC 2012 Fundraiser Flap. Flap issued at Lodge Dinner in January 2012
+  extension: jpg
+- variety: S
+  issue: 63
+  border:
+    color: RED
+    type: R
+  background: WHT
+  name: RED
+  fdl: GRN
+  issued: 1/2012
+  comments: Unami Lodge Standard Flap Issued 1/2012 at Lodge Dinner
+  extension: jpg
+- variety: S
+  issue: 64
+  border:
+    color: SMY
+    type: R
+  background: BLK
+  name: RED
+  fdl: GLD
+  issued: 2/2012
+  comments: Trained Officer Flap issued at the Lodge Leadership weekend at Delmont S.R. in February 2012
+  extension: jpg
+- variety: S
+  issue: 65
+  border:
+    color: TRQ
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GLD
+  issued: 4/2012
+  comments: Richards Arena Grand Opening Flap (General Admission). Issued 4/2012
+  extension: jpg
+- variety: S
+  issue: 66
+  border:
+    color: WHT
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GLD
+  issued: 4/2012
+  comments: Richards Arena Grand Opening Flap (Mezzannie Seating). This Flap was limited edition and only available as part of a set with S67 & S68. Only 150 sets were made. Issued 4/2012
+  extension: jpg
+- variety: S
+  issue: 67
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GLD
+  issued: 4/2012
+  comments: Richards Arena Grand Opening Flap (Orchestra Seating). This Flap was limited edition and only available as part of a set with S66 & S68. Only 150 sets were made. Issued 4/2012
+  extension: jpg
+- variety: S
+  issue: 68
+  border:
+    color: NBL
+    type: R
+  background: M/C
+  name: WHT
+  fdl: GLD
+  issued: 4/2012
+  comments: Richards Arena Grand Opening Flap (Balcony Seating). This Flap was limited edition and only available as part of a set with S66 & S67. Only 150 sets were made. Issued 4/2012
+  extension: jpg
+- variety: S
+  issue: 69
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: BLU
+  fdl: WHT
+  issued: 2012
+  comments: FDL; NOAC 2012 Trader
+  extension: jpg
+- variety: X
+  issue: 69
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: BLU
+  fdl: LGY
+  issued: 2012
+  comments: 2012 NOAC Trader Pocket Patch
+  extension: jpg
+- variety: S
+  issue: 70
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: RED
+  fdl: WHT
+  issued: 2012
+  comments: FDL; NOAC 2012 Contingent
+  extension: jpg
+- variety: X
+  issue: 70
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: RED
+  fdl: LGY
+  issued: 2012
+  comments: 2012 NOAC contingent Pocket Patch
+  extension: jpg
+- variety: S
+  issue: 71
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: RED
+  fdl: YEL
+  issued: 2013
+  comments: "2013 National Jamboree Flap Batch 1,\"Unami #1\""
+  extension: jpeg
+- variety: X
+  issue: 71
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: WHT
+  fdl: YEL
+  issued: 2013
+  comments: "2013 National Jamboree Flap Batch 1,\"Unami #1\" Pocket Patch"
+  extension: jpg
+- variety: S
+  issue: 72
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: RED
+  fdl: YEL
+  issued: 2013
+  comments: "2013 National Jamboree Flap Batch 2,\"Unami One\""
+  extension: jpeg
+- variety: X
+  issue: 72
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: WHT
+  fdl: YEL
+  issued: 2013
+  comments: "2013 National Jamboree Flap Batch 2,\"Unami One\" Pocket Patch"
+  extension: png
+- variety: S
+  issue: 73
+  border:
+    color: LBL
+    type: R
+  background: M/C
+  name: WHT
+  fdl: BLU
+  issued: 2013
+  comments: 100 Years of TI - Blue Border
+  extension: png
+- variety: S
+  issue: 74
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: BLU
+  issued: 2013
+  comments: 100 Years of TI - Gold Border
+  extension: png
+- variety: S
+  issue: 75
+  border:
+    color: RED
+    type: R
+  background: BLK
+  name: WHT
+  fdl: RED
+  issued: 2014
+  comments: 2014 Standard Flap
+  extension: png
+- variety: S
+  issue: 76
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: N/A
+  fdl: LBL
+  issued: 2014
+  comments: TI Ceremonial Grounds Preservation - Silver
+  extension: png
+- variety: S
+  issue: 77
+  border:
+    color: GMY
+    type: R
+  background: M/C
+  name: N/A
+  fdl: LBL
+  issued: 2014
+  comments: TI Ceremonial Grounds Preservation - Gold
+  extension: png
+- variety: S
+  issue: 78
+  border:
+    color: BLK
+    type: R
+  background: WHT
+  name: GRN
+  fdl: BLK
+  issued: 1/2015
+  comments: Trained Officer Flap issued at the Lodge Leadership weekend at Delmont S.R. in December 2014
+  extension: png
+- variety: S
+  issue: 79
+  border:
+    color: BLU
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2015
+  comments: 2015 Dinner "Throwback" Flap
+  extension: png
+- variety: S
+  issue: 80
+  border:
+    color: SMY
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2015
+  comments: 2015 NE-5B Conclave Participant Flap
+  extension: png
+- variety: S
+  issue: 81
+  border:
+    color: RED
+    type: R
+  background: M/C
+  name: WHT
+  fdl: WHT
+  issued: 2015
+  comments: 2015 NE-5B Conclave Staff Flap
+  extension: png
+- variety: S
+  issue: 82
+  border:
+    color: GMY
+    type: R
+  background: RED
+  name: WHT
+  fdl: BLK
+  issued: 2015
+  comments: 2015 NE-5B Conclave Thank You Flap
+  extension: png
+- variety: S
+  issue: 83
+  border:
+    color: GMY
+    type: R
+  background: RED
+  name: WHT
+  fdl: BLK
+  issued: 2015
+  comments: 100th Anniversary Celebration Flap
+  extension: png
+- variety: S
+  issue: 84
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: RED
+  fdl: GRY
+  issued: 2015
+  comments: 100th Anniversary Celebration Thank You Flap, 100 is GMY
+  extension: png
+- variety: S
+  issue: 85
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: WHT
+  fdl: RED
+  issued: 2015
+  comments: 2015 NOAC Contingent Flap
+  extension: png
+- variety: S
+  issue: 86
+  border:
+    color: BLK
+    type: R
+  background: M/C
+  name: WHT
+  fdl: RED
+  issued: 2015
+  comments: 2015 NOAC Trader Flap
+  extension: png
+- variety: S
+  issue: 87
+  border:
+    color: GMY
+    type: R
+  background: GMY
+  name: BLK
+  fdl: GMY
+  issued: 2016
+  comments: 2016 Dinner Flap - Non-Bullion
+  extension: png
+- variety: B
+  issue: 1
+  border:
+    color: GMY
+    type: R
+  background: GMY
+  name: BLK
+  fdl: GMY
+  issued: 2016
+  comments: 2016 Dinner Flap - Bullion
+  extension: png
+- variety: S
+  issue: 88
+  border:
+    color: GLD
+    type: R
+  background: M/C
+  name: GLD
+  fdl: ORG
+  issued: 9/2016
+  comments: "Musser Madness: Musser SR's 100th Anniversary"
+  extension: png
+- variety: S
+  issue: 89
+  border:
+    color:
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments: National Jamboree Flap
+  extension: png
+- variety: X
+  issue: 89
+  border:
+    color:
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments: National Jamboree Flap
+  extension: png
+- variety: S
+  issue: 90
+  border:
+    color:
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments:
+  extension: png
+- variety: S
+  issue: 91
+  border:
+    color:
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments: NOAC Fundraiser Flap
+  extension: png
+- variety: S
+  issue: 92
+  border:
+    color:
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments: Section NE-5 Contingent Flap
+  extension: png
+- variety: S
+  issue: 93
+  border:
+    color: SLV
+    type:
+  background:
+  name:
+  fdl:
+  issued:
+  comments: 18 Section NE-5 Staff Flap
+  extension: png
